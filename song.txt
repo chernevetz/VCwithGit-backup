@@ -9,7 +9,11 @@ Shild by shield
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 f1
 f2
+>>>>>>> feature
+=======
+non fast forward merge
 >>>>>>> feature
