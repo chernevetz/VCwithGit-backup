@@ -8,3 +8,8 @@ Shild by shield
 
 
 
+<<<<<<< HEAD
+=======
+f1
+f2
+>>>>>>> feature
