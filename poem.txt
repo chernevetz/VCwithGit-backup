@@ -2,3 +2,7 @@
 пошутили
 and go away
 and far away
+
+
+
+non fast forward merge
