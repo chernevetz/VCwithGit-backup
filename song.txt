@@ -8,5 +8,10 @@ Shild by shield
 
 
 
+<<<<<<< HEAD
 м1
 do not see f1, m2
+=======
+f1
+do not see m2 , f2
+>>>>>>> feature
