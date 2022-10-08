@@ -9,3 +9,4 @@ Shild by shield
 
 
 перешел в ветку main
+не вижу два изменения из ветки feature
