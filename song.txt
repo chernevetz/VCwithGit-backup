@@ -9,3 +9,7 @@ Shild by shield
 
 
 добавил изменения из feature branch
+
+проверка checkout --Xours
+ветка feature чужая
+немного контента
