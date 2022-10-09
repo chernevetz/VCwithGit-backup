@@ -11,5 +11,5 @@ Shild by shield
 добавил изменения из feature branch
 
 проверка checkout --Xours
-ветка feature чужая
+это ветка feature
 немного контента
