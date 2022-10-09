@@ -13,3 +13,7 @@ Shild by shield
 
 добавил изменения из feature branch
 
+проверка checkout --Xours
+ветка main моя , ветка feature чужая
+немного контента
+
