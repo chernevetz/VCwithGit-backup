@@ -10,11 +10,18 @@ Shild by shield
 
 
 
+
 изменения из main branch
 
 добавил изменения из feature branch
 
 проверка checkout --Xours
  это ветка main , ветка feature чужая
+немного контента
+
+добавил изменения из feature branch
+
+проверка checkout --Xours
+это ветка feature
 немного контента
 
