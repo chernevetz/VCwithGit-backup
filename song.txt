@@ -8,4 +8,4 @@ Shild by shield
 
 
 
-non fast forward merge
+добавил изменения из feature branch
